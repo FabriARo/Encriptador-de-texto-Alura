@@ -8,6 +8,7 @@ Para mayor entendimiento del manejo de la página, dejo a continuación las clav
 
 
 |  Valor    | Clave |
+| :-------- | :----------- |
 | **a** | *ai* |
 | **e** | *enter*|
 | **i** | *imes* |
